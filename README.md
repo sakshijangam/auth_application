@@ -1,7 +1,7 @@
 # auth_application
 login page using jwt token and mongose db
 
-backend 
+# backend 
 
 signup :
   
@@ -29,12 +29,12 @@ npm i express (framwork)   jsonwebtoken (jwt token) bcrypt   (encryption)  body-
 
 npm -g nodemon (module to track changes and update) 
 
-  database:-
-                altas monodb 
-                                     cluster0 connect compass with string(url) peovided by cluster0 (update your pass)
+  # database:-
+  altas monodb 
+  cluster0 connect compass with string(url) peovided by cluster0 (update your pass)
   
-  frontend:-
-          login/signup:-jwt token pass after  authorization then only succesful login
+  # frontend:-
+  login/signup:-jwt token pass after  authorization then only succesful login
       
   name :- required
       
@@ -42,7 +42,7 @@ npm -g nodemon (module to track changes and update)
       
   password:- least 4 chara
 
-  recording of running application
+  # recording of running application
           
           
           https://drive.google.com/file/d/1Idr0E3ovWmloiIgK5cZPHMEqsuUmMUH6/view?usp=drivesdk
@@ -50,7 +50,7 @@ npm -g nodemon (module to track changes and update)
 
 
 
-ARCHITECTURE OG APPLICATION
+# ARCHITECTURE OG APPLICATION
 
 
   react app  <-------->   node app <------->  mongodb
