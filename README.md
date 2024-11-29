@@ -1,19 +1,33 @@
 # auth_application
 login page using jwt token and mongose db
+
 backend 
+
 signup :
+  
   method post 
+
   {name email password}
+
 login :
+  
   method post 
+  
   { email password}
+
   server side validation using joi lib
+
   middelware :- authorization of JWT token
+
 npx create-react-app //setup
+
 npm start
+
 npm init -y /initialization
+
 npm i express (framwork)   jsonwebtoken (jwt token) bcrypt   (encryption)  body-parser  (req-body to server)  dotenv   (management of enviroment)    mongoose (db connection)  joi  (serverside validation)  cors (other port requt to our web) 
-  npm -g nodemon (module to track changes and update) 
+
+npm -g nodemon (module to track changes and update) 
 
   database:-
            altas monodb 
